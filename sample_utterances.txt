@@ -1,0 +1,25 @@
+
+TurnOnIntent turn {isOn} the lights
+TurnOnIntent turn {isOn} the light
+TurnOnIntent turn the lights {isOn}
+TurnOnIntent turn the light {isOn}
+TurnOnIntent turn {isOn} my lights
+TurnOnIntent get the lights
+TurnOnIntent all of the lights
+
+PatternIntent Play { pattern }
+PatternIntent Change Pattern to { pattern }
+PatternIntent { pattern }
+
+ColorIntent { color }
+ColorIntent Change color to { color }
+ColorIntent Make the lights { color }
+ColorIntent Change the lights to { color }
+
+SpeedIntent Play the lights { speed }
+SpeedIntent Speed up the lights
+SpeedIntent Slow down the lights
+
+AiVjIntent Turn {isOn} the AI VJ 
+AiVjIntent Turn { isOn } reactive lighting
+AiVjIntent Start audio reactive lighting

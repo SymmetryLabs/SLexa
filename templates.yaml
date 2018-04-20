@@ -1,0 +1,21 @@
+start: Hi, welcome to symmetry labs studio - you can turn on the lights, animate patterns, change light colors, and start music reactive lighting!
+
+turnon: Turning on your lights
+turnoff: Goodbye
+
+pattern: Changing the pattern to {{ pattern }}
+color: Changing the color to {{ color }}
+aivj: Turning on music reactivity 
+speed: Setting the speed
+spotify: starting music thru spotify
+brightness: Setting brightness
+help: You can ask symmetry labs studio to control the LED lighting currently installed. To turn on or off the lights, try saying tell symmetry labs studio to turn on or off the lights. to change the pattern, try saying ask symmetry labs studio to play rings. to change color, try saying ask symmetry labs studio to make it red. Would you like to turn on the lights?
+stop: Shutting down symmetry labs studio
+cancel: Canceling symmetry labs studio
+none: that is not a valid option, please try again
+
+#round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+#win: Good job!
+
+#lose: Sorry, that's the wrong answer.

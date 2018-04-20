@@ -1,0 +1,59 @@
+{
+
+    "intents": [{
+
+        "intent": "TurnOnIntent",
+        "slots": [{
+            "name": "isOn",
+            "type": "AMAZON.BOOLEAN"
+        }]
+
+    }, {
+
+        "intent": "PatternIntent",
+
+        "slots": [{
+
+            "name": "pattern",
+
+            "type": "AMAZON.STRING"
+
+        }]
+        
+
+    }, {
+        "intent": "ColorIntent",
+        "slots": [{
+            "name": "color",
+            "type": "AMAZON.STRING"
+        }]
+        },
+
+        {
+        "intent": "SpeedIntent",
+        "slots": [{
+            "name": "speed",
+            "type": "AMAZON.STRING"
+        }]
+        },
+        {
+        "intent": "AiVjIntent",
+        "slots": [{
+            "name": "isOn",
+            "type": "AMAZON.BOOLEAN"
+        }]
+        },
+        {
+        "intent": "SpotifyIntent",
+        "slots": [{
+            "name": "isOn",
+            "type": "AMAZON.BOOLEAN"
+        }]
+        },
+
+
+
+    ]
+
+
+}
